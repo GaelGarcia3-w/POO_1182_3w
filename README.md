@@ -23,7 +23,6 @@ def imprimir(self):
   
   print("Has REPROBADO!")
 
-#Creando los objetos Estudiante
 
 estudiante1 = Estudiante("Noe", 5)
 
@@ -37,7 +36,8 @@ estudiante2.imprimir()
 
 estudiante2.resultados()
 
- ![image](https://github.com/user-attachments/assets/6087fb7a-3141-446e-b8d4-737e4d9dcaf2) ![image](https://github.com/user-attachments/assets/00d4bf47-ec5c-4d95-a55f-de66b0009eb7) 
+ ![image](https://github.com/user-attachments/assets/151fa5c5-7d14-483a-8d25-da4ca87e20e2)
+ ![image](https://github.com/user-attachments/assets/00d4bf47-ec5c-4d95-a55f-de66b0009eb7) 
  ![image](https://github.com/user-attachments/assets/cab39ac6-ee44-4b9a-a970-df2c9a67df05)
 
 # #2
